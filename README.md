@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Bishal Jung Basnet and I'm from Sindhupalchok, Nepal</p>
+<h2 align="left">My name is Bishal Jung Basnet and I'm from Sindhupalchok, Nepal</h2>
 
 ###
 
