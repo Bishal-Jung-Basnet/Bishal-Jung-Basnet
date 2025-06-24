@@ -5,14 +5,6 @@
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h2 align="left">My name is Bishal Jung Basnet</h2>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
